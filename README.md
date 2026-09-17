@@ -50,5 +50,3 @@ Demonstrate practical skills in:
 - Structured worksheets and traceability
 - KPI summaries and dashboard reporting
 
-## Portfolio Value
-This project is intended to demonstrate the ability to turn raw apparel operational data into a structured, reviewable Excel workflow with basic controls for data accuracy and cost visibility.
